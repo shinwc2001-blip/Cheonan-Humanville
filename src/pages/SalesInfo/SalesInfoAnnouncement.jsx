@@ -90,7 +90,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/SalesInfo/announcement"
+          href="https://modellhouse.ai.kr/SalesInfo/announcement"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -101,11 +101,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/SalesInfo/announcement"
+          content="https://modellhouse.ai.kr/SalesInfo/announcement"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -121,11 +121,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/SalesInfo/announcement"
+          content="https://modellhouse.ai.kr/SalesInfo/announcement"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -136,7 +136,7 @@ const ComplexGuide1 = () => {
                      "@type": "WebPage",
                      "name": "천안 휴먼빌 퍼스트시티 - 모집공고안내",
                      "description": "천안 휴먼빌 퍼스트시티 입주자 모집공고 안내 페이지로, 모집 일정, 신청 자격, 제출 서류 및 유의사항을 명확하게 안내하여 예비 입주자가 절차를 정확히 준비할 수 있도록 돕습니다.",
-                     "url": "https://www.model-house.co.kr/SalesInfo/announcement"
+                     "url": "https://modellhouse.ai.kr/SalesInfo/announcement"
                  }
                  `}
         </script>

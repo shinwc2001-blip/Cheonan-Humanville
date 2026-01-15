@@ -69,7 +69,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/ComplexGuide/detailintro"
+          href="https://modellhouse.ai.kr/ComplexGuide/detailintro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -83,11 +83,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/ComplexGuide/detailintro"
+          content="https://modellhouse.ai.kr/ComplexGuide/detailintro"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/ComplexGuide/detailintro"
+          content="https://modellhouse.ai.kr/ComplexGuide/detailintro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -118,7 +118,7 @@ const ComplexGuide1 = () => {
 						"@type": "WebPage",
 						"name": "천안 휴먼빌 퍼스트시티 - 호수배치도",
 						"description": "천안 휴먼빌 퍼스트시티 호수 배치도 페이지는 각 동·호수의 위치와 배치를 안내하여, 고객이 선호하는 향·층·전망을 고려해 세대를 선택할 수 있도록 돕는 정보 페이지입니다.",
-						"url": "https://www.model-house.co.kr/ComplexGuide/detailintro"
+						"url": "https://modellhouse.ai.kr/ComplexGuide/detailintro"
 					}
 					`}
         </script>

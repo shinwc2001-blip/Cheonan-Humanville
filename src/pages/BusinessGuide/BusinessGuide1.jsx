@@ -73,7 +73,7 @@ const BusinessGuide1 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 천안 사업개요, 성성호수공원 아파트, 부대2지구 개발, 천안 신도시 분양"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/Brand/intro" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="천안 휴먼빌 퍼스트시티 - 사업안내" />
@@ -83,11 +83,11 @@ const BusinessGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/Brand/intro"
+          content="https://modellhouse.ai.kr/Brand/intro"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -103,11 +103,11 @@ const BusinessGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/Brand/intro"
+          content="https://modellhouse.ai.kr/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -118,7 +118,7 @@ const BusinessGuide1 = () => {
 			"@type": "WebPage",
 			"name": "천안 휴먼빌 퍼스트시티 - 사업안내",
 			"description": "천안 휴먼빌 퍼스트시티는 천안 서북구 성성호수공원 중심의 도시개발지구에 조성되는 1,541세대 규모의 자연친화 브랜드 대단지입니다. 본 페이지에서는 사업 개요, 개발 방향, 단지 특장점 및 교통·생활 인프라 정보 등 실질적인 의사결정에 필요한 내용을 제공합니다.",
-			"url": "https://www.model-house.co.kr/Brand/intro"
+			"url": "https://modellhouse.ai.kr/Brand/intro"
 		}
 		`}
         </script>

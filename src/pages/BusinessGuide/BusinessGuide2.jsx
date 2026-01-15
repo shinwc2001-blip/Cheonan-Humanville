@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 천안 아파트 분양일정, 모집공고, 성성호수공원 분양"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/BusinessGuide/plan" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="천안 휴먼빌 퍼스트시티 - 분양일정" />
@@ -82,11 +82,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/BusinessGuide/plan"
+          content="https://modellhouse.ai.kr/BusinessGuide/plan"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -102,11 +102,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/BusinessGuide/plan"
+          content="https://modellhouse.ai.kr/BusinessGuide/plan"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -117,7 +117,7 @@ const BusinessGuide2 = () => {
 						"@type": "WebPage",
 						"name": "천안 휴먼빌 퍼스트시티 - 분양일정",
 						"description": "천안 휴먼빌 퍼스트시티의 분양 및 임차인 모집 일정을 종합적으로 안내합니다. 청약 접수, 계약, 입주 일정 등 중요한 일정을 한눈에 확인할 수 있습니다.",
-						"url": "https://www.model-house.co.kr/BusinessGuide/plan"
+						"url": "https://modellhouse.ai.kr/BusinessGuide/plan"
 					}
 					`}
         </script>

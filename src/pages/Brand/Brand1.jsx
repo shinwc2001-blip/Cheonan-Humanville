@@ -72,7 +72,7 @@ const Brand1 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 천안 모델하우스, 천안 아파트 분양, 성성호수공원, 부성역 예정, 천안 대단지"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/Brand/intro" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -85,11 +85,11 @@ const Brand1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/Brand/intro"
+          content="https://modellhouse.ai.kr/Brand/intro"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -105,11 +105,11 @@ const Brand1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/Brand/intro"
+          content="https://modellhouse.ai.kr/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -120,7 +120,7 @@ const Brand1 = () => {
                                             "@type": "WebPage",
                                             "name": "천안 휴먼빌 퍼스트시티 - 브랜드 소개",
                                             "description": "천안 휴먼빌 퍼스트시티는 천안 서북구 부대동 성성호수공원 인근에 들어서는 자연친화형 신도시 주거단지입니다. 수도권 전철 1호선과 고속도로 접근성, 브랜드 대단지의 프리미엄과 미래가치를 동시에 갖춘 새로운 라이프스타일을 제안합니다.",
-                                            "url": "https://www.model-house.co.kr/Brand/intro"
+                                            "url": "https://modellhouse.ai.kr/Brand/intro"
                                         }
                                         `}
         </script>

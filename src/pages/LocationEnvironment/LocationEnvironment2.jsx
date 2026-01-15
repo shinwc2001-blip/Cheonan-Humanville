@@ -65,7 +65,7 @@ const LocationEnvironment1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/LocationEnvironment/primium"
+          href="https://modellhouse.ai.kr/LocationEnvironment/primium"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -79,11 +79,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/LocationEnvironment/primium"
+          content="https://modellhouse.ai.kr/LocationEnvironment/primium"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -99,11 +99,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/LocationEnvironment/primium"
+          content="https://modellhouse.ai.kr/LocationEnvironment/primium"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -114,7 +114,7 @@ const LocationEnvironment1 = () => {
 						"@type": "WebPage",
 						"name": "천안 휴먼빌 퍼스트시티 - 프리미엄",
 						"description": "천안 휴먼빌 퍼스트시티 프리미엄 페이지는 홍골공원 숲세권 입지, 특화 설계, 조경 및 커뮤니티 시설, 보안·관리 시스템, 장기일반민간임대 구조 등 단지의 차별화된 프리미엄 요소를 종합적으로 소개합니다.",
-						"url": "https://www.model-house.co.kr/LocationEnvironment/primium"
+						"url": "https://modellhouse.ai.kr/LocationEnvironment/primium"
 				 }
 				 `}
         </script>

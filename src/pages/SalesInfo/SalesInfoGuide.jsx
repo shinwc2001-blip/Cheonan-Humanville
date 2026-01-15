@@ -70,7 +70,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/SalesInfo/guide"
+          href="https://modellhouse.ai.kr/SalesInfo/guide"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -84,11 +84,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/SalesInfo/guide"
+          content="https://modellhouse.ai.kr/SalesInfo/guide"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -104,11 +104,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/SalesInfo/guide"
+          content="https://modellhouse.ai.kr/SalesInfo/guide"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -119,7 +119,7 @@ const ComplexGuide1 = () => {
              "@type": "WebPage",
              "name": "천안 휴먼빌 퍼스트시티 - 인터넷청약",
              "description": "천안 휴먼빌 퍼스트시티 인터넷 청약 안내 페이지로, 온라인으로 청약을 진행하기 위한 절차, 신청 자격, 준비 서류 및 유의사항을 정리하여 제공합니다.",
-             "url": "https://www.model-house.co.kr/SalesInfo/guide"
+             "url": "https://modellhouse.ai.kr/SalesInfo/guide"
                  }
                  `}
         </script>

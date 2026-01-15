@@ -110,7 +110,7 @@ const LocationEnvironment1 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 천안 퍼스트시티 입지, 천안 성성지구 아파트, 성성호수공원 아파트"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -123,11 +123,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/LocationEnvironment/intro"
+          content="https://modellhouse.ai.kr/LocationEnvironment/intro"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -143,11 +143,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/LocationEnvironment/intro"
+          content="https://modellhouse.ai.kr/LocationEnvironment/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -158,7 +158,7 @@ const LocationEnvironment1 = () => {
 					"@type": "WebPage",
 					"name": "천안 휴먼빌 퍼스트시티 - 입지안내",
 					"description": "천안 휴먼빌 퍼스트시티 입지안내 페이지는 성성지구에 위치한 단지의 교통, 공원, 교육, 생활 인프라 정보를 종합 제공합니다. 성성호수공원, 1호선 직산역, 천안아산역 등 더블역세권 입지로 주목받는 위치입니다.",
-					"url": "https://www.model-house.co.kr/LocationEnvironment/intro"
+					"url": "https://modellhouse.ai.kr/LocationEnvironment/intro"
 				 }
 				 `}
         </script>

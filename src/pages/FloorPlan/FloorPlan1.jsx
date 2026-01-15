@@ -76,7 +76,7 @@ const FloorPlan1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/FloorPlan/59A"
+          href="https://modellhouse.ai.kr/FloorPlan/59A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -87,11 +87,11 @@ const FloorPlan1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/FloorPlan/59A"
+          content="https://modellhouse.ai.kr/FloorPlan/59A"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -107,11 +107,11 @@ const FloorPlan1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/FloorPlan/59A"
+          content="https://modellhouse.ai.kr/FloorPlan/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -122,7 +122,7 @@ const FloorPlan1 = () => {
 						"@type": "WebPage",
 						"name": "천안 휴먼빌 퍼스트시티 - 평면도",
 						"description": "천안 휴먼빌 퍼스트시티 평면 안내 페이지는 전용 59㎡ 타입의 세대 구조와 공간 구성을 제공하여, 고객이 자신의 생활 패턴에 맞는 평형을 선택할 수 있도록 돕는 정보 페이지입니다.",
-						"url": "https://www.model-house.co.kr/FloorPlan/59A"
+						"url": "https://modellhouse.ai.kr/FloorPlan/59A"
 					}
 					`}
         </script>

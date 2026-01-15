@@ -83,7 +83,7 @@ const BusinessGuide2 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 계약서류 안내, 천안 계약 절차, 분양 계약서류"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/BusinessGuide/documents" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/BusinessGuide/documents" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="천안 휴먼빌 퍼스트시티 - 계약서류안내" />
@@ -93,11 +93,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/BusinessGuide/documents"
+          content="https://modellhouse.ai.kr/BusinessGuide/documents"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -113,11 +113,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/BusinessGuide/documents"
+          content="https://modellhouse.ai.kr/BusinessGuide/documents"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -128,7 +128,7 @@ const BusinessGuide2 = () => {
 									"@type": "WebPage",
 									"name": "천안 휴먼빌 퍼스트시티 - 계약서류안내",
 									"description": "천안 휴먼빌 퍼스트시티 계약서류안내 페이지에서는 계약 진행 시 필요한 서류, 제출 방법, 제출 기한 및 유의사항을 상세하게 안내합니다.",
-									"url": "https://www.model-house.co.kr/BusinessGuide/documents"
+									"url": "https://modellhouse.ai.kr/BusinessGuide/documents"
 								}
 								`}
         </script>

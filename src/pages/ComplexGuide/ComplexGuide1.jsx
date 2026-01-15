@@ -69,7 +69,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.model-house.co.kr/ComplexGuide/intro"
+          href="https://modellhouse.ai.kr/ComplexGuide/intro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -83,11 +83,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/ComplexGuide/intro"
+          content="https://modellhouse.ai.kr/ComplexGuide/intro"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/ComplexGuide/intro"
+          content="https://modellhouse.ai.kr/ComplexGuide/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -118,7 +118,7 @@ const ComplexGuide1 = () => {
 						"@type": "WebPage",
 						"name": "천안 휴먼빌 퍼스트시티 - 단지배치도",
 						"description": "천안 휴먼빌 퍼스트시티 단지 배치도 페이지는 1,541세대의 동 배치, 커뮤니티 시설, 조경 공간, 주차 공간 등 전체 단지 구성을 시각적으로 안내합니다. 입주자가 실생활에 필요한 정보를 미리 파악할 수 있도록 구성되어 있습니다.",
-						"url": "https://www.model-house.co.kr/ComplexGuide/intro"
+						"url": "https://modellhouse.ai.kr/ComplexGuide/intro"
 					}
 					`}
         </script>

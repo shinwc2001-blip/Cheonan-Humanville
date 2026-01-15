@@ -63,7 +63,7 @@ const Brand2 = () => {
           name="keywords"
           content="천안 휴먼빌 퍼스트시티, 천안 홍보영상, 천안 모델하우스, 성성호수공원 아파트"
         />
-        <link rel="canonical" href="https://www.model-house.co.kr/Brand/video" />
+        <link rel="canonical" href="https://modellhouse.ai.kr/Brand/video" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="천안 휴먼빌 퍼스트시티 - 홍보영상" />
@@ -73,11 +73,11 @@ const Brand2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.model-house.co.kr/Brand/video"
+          content="https://modellhouse.ai.kr/Brand/video"
         />
         <meta property="og:site_name" content="천안 휴먼빌 퍼스트시티" />
 
@@ -93,11 +93,11 @@ const Brand2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.model-house.co.kr/Main1.png"
+          content="https://modellhouse.ai.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.model-house.co.kr/Brand/video"
+          content="https://modellhouse.ai.kr/Brand/video"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -108,7 +108,7 @@ const Brand2 = () => {
 													"@type": "WebPage",
 													"name": "천안 휴먼빌 퍼스트시티 - 홍보영상",
 													"description": "천안 휴먼빌 퍼스트시티의 홍보영상은 성성호수공원과 함께하는 자연친화 입지, 미래가치를 담은 브랜드 대단지의 비전과 특장점을 고화질 영상으로 소개하는 콘텐츠입니다.",
-													"url": "https://www.model-house.co.kr/Brand/video"
+													"url": "https://modellhouse.ai.kr/Brand/video"
 												}
 												`}
         </script>
