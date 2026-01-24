@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="jungheung-class-bener"
+                alt="jungheung-class-beenr"
             />
             <div className={styles.overlay}></div>
             <div
