@@ -47,7 +47,7 @@ const contents = (text, isLoaded) => {
                     지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    성성호수공원을 품은 자연 친화 신도시 라이프
+                    성성호수공원과 더블역세권을 품은 자연 친화 신도시 라이프
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     NO.1 자연 숲세권 신흥 주거타운, 천안 휴먼빌 퍼스트시티와 함께합니다.
@@ -58,7 +58,7 @@ const contents = (text, isLoaded) => {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    성성호수공원 중심으로 조성되는 미래형 신도시의 핵심 입지
+                    성성호수공원 블럭으로 조성되는 미래형 신도시의 핵심 입지
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     수도권 1호선 두정역 · 부성역(예정) · 천안IC를 누리는 트리플 교통 프리미엄

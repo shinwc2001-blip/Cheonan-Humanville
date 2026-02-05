@@ -75,7 +75,7 @@ const section3Contents = [
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
     text1: `자연과 함께하는 공원 프리미엄`,
-    text2: `성성호수공원, 불당근린공원 등 인접<br />
+    text2: `성성호수공원 인접<br />
             도심 속 쾌적한 힐링 라이프 실현 가능한<br /> 자연 친화형 주거환경`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
@@ -205,7 +205,7 @@ const Main = () => {
           </div>
 
           <div className={styles.mainImageTitleBox}>
-            <div className={styles.mainImageText}>성성지구 더블역세권과 호수공원의 중심</div>
+            <div className={styles.mainImageText}>성성지구 내 더블역세권과 호수공원의 중심</div>
             <div className={styles.mainImageLine}></div>
             <div className={styles.mainImageText}>천안 휴먼빌 퍼스트시티</div>
           </div>
@@ -238,7 +238,7 @@ const Main = () => {
                 </div>
 
                 <div className={styles.text3}>
-                  - 성성지구 중심 입지, 성성호수공원 인접<br />
+                  - 성성,부대지구 입지, 성성호수공원 인접<br />
                   - 천안IC·1번국도·KTX천안아산역 등 교통망 우수<br />
                   - 교육·쇼핑·의료·자연이 어우러진 원스톱 생활 인프라<br />
                   - 모두가 누리는 프리미엄, 천안 휴먼빌 퍼스트시티
