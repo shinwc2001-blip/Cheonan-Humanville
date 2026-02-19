@@ -60,7 +60,7 @@ const Interior3 = () => {
 			<MenuBar contents={menuContents} />
 
       <div className={styles.textBox}>
-        <div>천안 성성지구 호수공원과 더블역세권 프리미엄 위에</div>
+        <div>천안 성성생활권, 역세권 살기좋은 프리미엄</div>
         <div>천안 휴먼빌 퍼스트시티 인테리어가 새로운 주거 기준을 제시합니다.</div>
       </div>
 

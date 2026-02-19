@@ -25,7 +25,7 @@ const LocationSection = [
     titleText:
       "빠르게 성장하는 천안 성성지구 중심<br />살수록 높아지는 미래가치",
     contentText:
-      "도시개발과 함께 가치가 높아지는 성성지구<br />천안의 핵심 신흥 주거지로 미래가치 기대",
+      "도시개발과 함께 가치가 높아지는 성성생활권<br />천안의 핵심 신흥 주거지로 미래가치 기대",
   },
   {
     img: section2Image2,
@@ -119,7 +119,7 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:description"
-          content="천안 성성지구의 핵심 입지에 위치한 천안 휴먼빌 퍼스트시티! 성성호수공원과 더블역세권의 입지 프리미엄을 지금 확인해 보세요."
+          content="천안 성성지구 옆 입지에 위치한 천안 휴먼빌 퍼스트시티! 성성호수공원과 더블 역세권입지 및 살기좋은 프리미엄을 지금 확인해 보세요."
         />
         <meta
           property="og:image"

@@ -140,7 +140,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>천안 성성지구 숲세권 프리미엄의 가치 위에</div>
+        <div>천안 성성생활권 프리미엄의 가치 위에</div>
         <div>천안 휴먼빌 퍼스트시티가 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
