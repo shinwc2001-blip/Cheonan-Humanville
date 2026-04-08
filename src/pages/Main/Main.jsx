@@ -201,7 +201,7 @@ const Main = () => {
           <div className={styles.mainImageTextSub}>
             천안의 중심에서 <span className={styles.greyText}>핵심 입지</span> |
             실속 있는 <span className={styles.greyText}>합리적 옵션 구성</span> |
-            계약금 5%로 시작하는 <span className={styles.greyText}>내 집 마련의 기회</span>
+            계약금 500만원으로 시작하는 <span className={styles.greyText}>내 집 마련의 기회</span>
           </div>
 
           <div className={styles.mainImageTitleBox}>
