@@ -503,7 +503,7 @@ const Main = () => {
 
 
             <div className={styles.text4}>
-              <a href="https://naver.me/55rUFpYq" target="_black">
+              <a href="https://naver.me/F3EI4Bsd" target="_black">
                 관심고객 등록하기 {">"}
               </a>
             </div>
